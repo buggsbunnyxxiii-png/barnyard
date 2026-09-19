@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
-import { Counter, MaskLine, Reveal, RuleDraw, SectionLabel } from "../components/ui";
+import { Counter, MaskLine, Reveal, RuleDraw, SectionLabel } from "./ui";
 
 const PLANS = [
   {

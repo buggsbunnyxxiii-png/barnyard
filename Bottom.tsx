@@ -1,6 +1,6 @@
 import { useState, type FormEvent } from "react";
 import { AnimatePresence, motion } from "framer-motion";
-import { ArrowLink, Counter, MaskLine, Reveal, RuleDraw, SectionLabel } from "../components/ui";
+import { ArrowLink, Counter, MaskLine, Reveal, RuleDraw, SectionLabel } from "./ui";
 import { Mark } from "./Header";
 
 export function Studio() {

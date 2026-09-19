@@ -1,4 +1,4 @@
-import { SectionLabel } from "../components/ui";
+import { SectionLabel } from "./ui";
 
 const collections = [
   ["Architect-Designed Homes", "Unique residences developed with architects, combining vision, craftsmanship, and post-and-beam construction."],
