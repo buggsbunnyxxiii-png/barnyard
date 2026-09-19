@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
-import { ArrowLink, MaskLine, Reveal, RuleDraw, SectionLabel } from "../components/ui";
+import { ArrowLink, MaskLine, Reveal, RuleDraw, SectionLabel } from "./ui";
 
 const NAV = [
   {

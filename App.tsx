@@ -1,8 +1,8 @@
 import { motion, useScroll, useSpring } from "framer-motion";
-import { Hero, Manifesto, Nav } from "./sections/Header";
-import { Homes, Performance, Process } from "./sections/Middle";
-import { Contact, Footer, Quote, Studio } from "./sections/Bottom";
-import { AboutMigration, CollectionsMigration, ProjectsMigration, ProcessMigration, ContactMigration } from "./sections/Migration";
+import { Hero, Manifesto, Nav } from "./Header";
+import { Homes, Performance, Process } from "./Middle";
+import { Contact, Footer, Quote, Studio } from "./Bottom";
+import { AboutMigration, CollectionsMigration, ProjectsMigration, ProcessMigration, ContactMigration } from "./Migration";
 import PageRouter from "./pages";
 
 /** The book's running head — a vertical index pinned to the left margin. */
