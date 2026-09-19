@@ -67,7 +67,7 @@ export function Studio() {
               <figure>
                 <div className="grain overflow-hidden">
                   <img
-                    src="images/studio.jpg"
+                    src="studio.jpg"
                     alt="Design studio interior with drawings and timber samples"
                     className="aspect-[4/3] w-full object-cover lg:aspect-[4/4.4]"
                   />
